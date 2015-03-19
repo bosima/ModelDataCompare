@@ -65,6 +65,7 @@ ModelDataCompare 提供了一组方法用于比较同一个类型的两个实例
 ModelDataCompare 不仅仅是简单的数据比对，还提供了若干增强支持：
 
 1、嵌套类型比较：
+
 如下定义的模型类，其中的User属性也是一个复杂数据类型，ModelDataCompare 可以对User中的每一个属性进行比较。
 
     /// <summary>
@@ -98,6 +99,7 @@ ModelDataCompare 不仅仅是简单的数据比对，还提供了若干增强支
     }
     
 2、集合类型比较：
+
 ModelDataCompare 可以比较集合中对应索引位置的同一个类型的实例，还支持集合元素数量不相等的比较。
 
             SimpleModel[] oldArray = new SimpleModel[]{
@@ -141,6 +143,7 @@ ModelDataCompare 可以比较集合中对应索引位置的同一个类型的实
             var changeItem = Comparer.Compare(oldArray, newArray, null, null);
 
 3、数据属性友好名称
+
 程序中的属性一般使用英文名称，对于业务系统的使用用户来说可读性较差，ModelDataCompare 支持为属性提供一个友好的可读名称。
 
             var oldModel = new SimpleModel()
@@ -175,6 +178,7 @@ ModelDataCompare 可以比较集合中对应索引位置的同一个类型的实
             Assert.AreEqual("姓名", changeItem.Sub.Where(i => i.Name == "Name").FirstOrDefault().ReadableName);
 
 4、数据属性值友好描述
+
 属性对应的值可能只是一个系统内部使用的编号，对于业务系统的使用用户来说看不懂，ModelDataCompare 支持通过特性的方式转换相应的内部值为一个用户可读的值。
 
 目前特性支持两种方式：枚举、方法。
