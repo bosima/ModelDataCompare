@@ -1,0 +1,7 @@
+C:\Users\John\Desktop\变更记录\UnitTest\bin\Release\FireflySoft.ModelCompare.UnitTest.dll
+C:\Users\John\Desktop\变更记录\UnitTest\bin\Release\FireflySoft.ModelCompare.UnitTest.pdb
+C:\Users\John\Desktop\变更记录\UnitTest\bin\Release\FireflySoft.ModelCompare.Core.dll
+C:\Users\John\Desktop\变更记录\UnitTest\bin\Release\FireflySoft.ModelCompare.Core.pdb
+C:\Users\John\Desktop\变更记录\UnitTest\obj\Release\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\变更记录\UnitTest\obj\Release\FireflySoft.ModelCompare.UnitTest.dll
+C:\Users\John\Desktop\变更记录\UnitTest\obj\Release\FireflySoft.ModelCompare.UnitTest.pdb

@@ -1,0 +1,15 @@
+E:\ModelCompare\Core\bin\Debug\Core.dll
+E:\ModelCompare\Core\bin\Debug\Core.pdb
+E:\ModelCompare\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+E:\ModelCompare\Core\obj\Debug\Core.dll
+E:\ModelCompare\Core\obj\Debug\Core.pdb
+C:\Users\John\Desktop\变更记录\Core\bin\Debug\FireflySoft.ModelCompare.Core.dll
+C:\Users\John\Desktop\变更记录\Core\bin\Debug\FireflySoft.ModelCompare.Core.pdb
+C:\Users\John\Desktop\变更记录\Core\obj\Debug\FireflySoft.ModelCompare.Core.dll
+C:\Users\John\Desktop\变更记录\Core\obj\Debug\FireflySoft.ModelCompare.Core.pdb
+C:\Users\John\Desktop\变更记录\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\变更记录(2015-3-18 0.32.48)\Core\bin\Debug\FireflySoft.ModelDataCompare.Core.dll
+C:\Users\John\Desktop\变更记录(2015-3-18 0.32.48)\Core\bin\Debug\FireflySoft.ModelDataCompare.Core.pdb
+C:\Users\John\Desktop\变更记录(2015-3-18 0.32.48)\Core\obj\Debug\FireflySoft.ModelDataCompare.Core.dll
+C:\Users\John\Desktop\变更记录(2015-3-18 0.32.48)\Core\obj\Debug\FireflySoft.ModelDataCompare.Core.pdb
+C:\Users\John\Desktop\变更记录(2015-3-18 0.32.48)\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache

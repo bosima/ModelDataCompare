@@ -1,0 +1,28 @@
+E:\ModelCompare\UnitTest\bin\Debug\UnitTest.dll
+E:\ModelCompare\UnitTest\bin\Debug\UnitTest.pdb
+E:\ModelCompare\UnitTest\bin\Debug\Core.dll
+E:\ModelCompare\UnitTest\bin\Debug\Core.pdb
+E:\ModelCompare\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+E:\ModelCompare\UnitTest\obj\Debug\UnitTest.dll
+E:\ModelCompare\UnitTest\obj\Debug\UnitTest.pdb
+F:\智驾\文档\公共组件\变更记录\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+F:\智驾\文档\公共组件\变更记录\UnitTest\obj\Debug\UnitTest.dll
+F:\智驾\文档\公共组件\变更记录\UnitTest\bin\Debug\UnitTest.dll
+F:\智驾\文档\公共组件\变更记录\UnitTest\bin\Debug\UnitTest.pdb
+F:\智驾\文档\公共组件\变更记录\UnitTest\bin\Debug\Core.dll
+F:\智驾\文档\公共组件\变更记录\UnitTest\bin\Debug\Core.pdb
+F:\智驾\文档\公共组件\变更记录\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\John\Desktop\变更记录\UnitTest\bin\Debug\FireflySoft.ModelCompare.UnitTest.dll
+C:\Users\John\Desktop\变更记录\UnitTest\bin\Debug\FireflySoft.ModelCompare.UnitTest.pdb
+C:\Users\John\Desktop\变更记录\UnitTest\bin\Debug\FireflySoft.ModelCompare.Core.dll
+C:\Users\John\Desktop\变更记录\UnitTest\bin\Debug\FireflySoft.ModelCompare.Core.pdb
+C:\Users\John\Desktop\变更记录\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\变更记录\UnitTest\obj\Debug\FireflySoft.ModelCompare.UnitTest.dll
+C:\Users\John\Desktop\变更记录\UnitTest\obj\Debug\FireflySoft.ModelCompare.UnitTest.pdb
+C:\Users\John\Desktop\变更记录(2015-3-18 0.32.48)\UnitTest\bin\Debug\FireflySoft.ModelDataCompare.UnitTest.dll
+C:\Users\John\Desktop\变更记录(2015-3-18 0.32.48)\UnitTest\bin\Debug\FireflySoft.ModelDataCompare.UnitTest.pdb
+C:\Users\John\Desktop\变更记录(2015-3-18 0.32.48)\UnitTest\bin\Debug\FireflySoft.ModelDataCompare.Core.dll
+C:\Users\John\Desktop\变更记录(2015-3-18 0.32.48)\UnitTest\bin\Debug\FireflySoft.ModelDataCompare.Core.pdb
+C:\Users\John\Desktop\变更记录(2015-3-18 0.32.48)\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\变更记录(2015-3-18 0.32.48)\UnitTest\obj\Debug\FireflySoft.ModelDataCompare.UnitTest.dll
+C:\Users\John\Desktop\变更记录(2015-3-18 0.32.48)\UnitTest\obj\Debug\FireflySoft.ModelDataCompare.UnitTest.pdb

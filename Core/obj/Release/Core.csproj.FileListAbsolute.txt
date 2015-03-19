@@ -1,0 +1,4 @@
+C:\Users\John\Desktop\变更记录\Core\bin\Release\FireflySoft.ModelCompare.Core.dll
+C:\Users\John\Desktop\变更记录\Core\bin\Release\FireflySoft.ModelCompare.Core.pdb
+C:\Users\John\Desktop\变更记录\Core\obj\Release\FireflySoft.ModelCompare.Core.dll
+C:\Users\John\Desktop\变更记录\Core\obj\Release\FireflySoft.ModelCompare.Core.pdb
