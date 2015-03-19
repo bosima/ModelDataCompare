@@ -226,4 +226,10 @@ ModelDataCompare 可以比较集合中对应索引位置的同一个类型的实
         public string CityName { get; set; }
     }
     
+ 5、排除无关项
+
+排序不关心或者不重要的数据属性，比如：数据修改时间。
+
+    var changeItem = Comparer.Compare(oldModel, newModel, new string[] { "ID" }, propertyReadableNameDictionary);
+
 ModelDataCompare 内部采用了反射的方式用于获取类型的属性、获取属性的特性，以及获取相关方法和属性的值，这对性能会造成一定的影响。为了解决这个问题，ModelDataCompare 内部对相关反射获取到的数据进行了缓存，可以提升一些性能。
