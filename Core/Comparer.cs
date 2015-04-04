@@ -288,8 +288,15 @@ namespace FireflySoft.ModelDataCompare.Core
         /// <returns></returns>
         private static ChangeItem CompareValueTypeProperty(PropertyInfo property, object oldValue, object newValue)
         {
+            if (oldValue == null && newValue == null)
+            {
+                return null;
+            }
+
+            bool isEquals = CheckObjectIsEquals(oldValue, newValue);
+
             // 如果新旧值不同，则添加到变更集合
-            if (!oldValue.Equals(newValue))
+            if (!isEquals)
             {
                 var changeItem = new ChangeItem();
                 changeItem.OfTypeName = property.DeclaringType.FullName; // 声明该属性的类的全名称
@@ -320,6 +327,32 @@ namespace FireflySoft.ModelDataCompare.Core
             }
 
             return null;
+        }
+
+        /// <summary>
+        /// 检查两个对象是否相等
+        /// </summary>
+        /// <param name="oldValue"></param>
+        /// <param name="newValue"></param>
+        /// <returns></returns>
+        private static bool CheckObjectIsEquals(object oldValue, object newValue)
+        {
+            bool isSame = true;
+            if (newValue != null)
+            {
+                if (!newValue.Equals(oldValue))
+                {
+                    isSame = false;
+                }
+            }
+            else
+            {
+                if (!oldValue.Equals(newValue))
+                {
+                    isSame = false;
+                }
+            }
+            return isSame;
         }
 
         /// <summary>
