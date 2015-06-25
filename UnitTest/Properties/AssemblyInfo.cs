@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("FireflySoft.ModelDataCompare.UnitTest")]
-[assembly: AssemblyCopyright("Copyright ©  FireflySoft 2015")]
+[assembly: AssemblyCopyright("Copyright ©  FireflySoft.Net 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
